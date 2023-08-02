@@ -1,0 +1,7 @@
+# ninja log v5
+2386	2506	1667355900865421601	Project2_ImageProcessing	ffe0e517f7407b08
+3	2500	1667277118250339633	CMakeFiles/Project2_ImageProcessing.dir/main.cpp.o	8171bdd9ef0b429c
+1	311	1667446758447359180	build.ninja	a089e61ddcb0326c
+3	2386	1667355900732479446	CMakeFiles/Project2_ImageProcessing.dir/src/main.cpp.o	cb760955a3a25e3b
+4	2837	1667277118590833759	CMakeFiles/Project2_ImageProcessing.dir/Image.cpp.o	5ea52e2375540ff
+3	3907	1667354809128470863	CMakeFiles/Project2_ImageProcessing.dir/src/Image.cpp.o	74b596d4b36510b7
